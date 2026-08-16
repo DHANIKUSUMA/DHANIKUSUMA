@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Information Systems Student • UI/UX Enthusiast • Data-Driven Developer</b><br>
-  Universitas Trunojoyo Madura
+  Universitas Trunodjoyo Madura
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ### 👨‍💻 Tentang Saya
 
-Mahasiswa Sistem Informasi di **Universitas Trunojoyo Madura**, aktif di **HIMASI UTM**. Fokus mengembangkan solusi teknologi berbasis riset — mulai dari UI/UX design, data science, hingga pengembangan web — dengan perhatian khusus pada konteks lokal Madura dan Jawa Timur.
+Mahasiswa Sistem Informasi di **Universitas Trunojoyo Madura**, aktif di **WargaLab JTIF**. Fokus mengembangkan solusi teknologi berbasis riset — mulai dari UI/UX design, data science, hingga pengembangan web — dengan perhatian khusus pada konteks lokal Madura dan Jawa Timur.
 
 - 🔭 Sedang mengerjakan **DEKAT** — platform caregiving untuk lansia di Madura (GEMASTIK XIX 2026)
 - 🌱 Sedang memperdalam **Laravel** dan **Deep Learning**
@@ -43,11 +43,18 @@ Mahasiswa Sistem Informasi di **Universitas Trunojoyo Madura**, aktif di **HIMAS
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Design Tools**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Affinity](https://img.shields.io/badge/Affinity-1B1B1B?style=flat&logo=affinity&logoColor=white)
 
 ---
 
-### 🚀 Proyek Unggulan
+### 🚀 Proyek 
 
 | Proyek | Deskripsi | Status |
 |---|---|---|
@@ -60,15 +67,8 @@ Mahasiswa Sistem Informasi di **Universitas Trunojoyo Madura**, aktif di **HIMAS
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&hide_border=true" alt="streak stats" />
-</p>
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=DHANIKUSUMA&show_icons=true&theme=default&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHANIKUSUMA&layout=compact&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=DHANIKUSUMA&hide_border=true" alt="streak stats" /> </p>
 
 ---
 
-<p align="center"><i>"Membangun teknologi yang dekat dengan masyarakat, dimulai dari Madura."</i></p>
+<p align="center"><i>"Khairunnas anfa'uhum linnas — sebaik-baik manusia adalah yang paling bermanfaat.."</i></p>
