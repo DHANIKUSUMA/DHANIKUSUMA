@@ -1,74 +1,153 @@
-<h1 align="center">Halo, saya Dhani Kusuma Prasetyo 👋</h1>
+<div align="center">
+
+  <!-- Header Banner -->
+  <img src="github-header-banner.png" alt="Dhani Kusuma Banner" width="100%" style="border-radius: 10px; max-height: 280px; object-fit: cover;" />
+
+  <br><br>
+
+  <!-- Title & Typing Animation -->
+  <h1>Hi there, I'm <span style="color: #38bdf8;">Dhani Kusuma Prasetyo</span> 👋</h1>
+
+  <p>
+    <b>Information Systems Student • UI/UX Enthusiast • Tech Explorer</b><br>
+    🏛️ <i>Universitas Trunojoyo Madura</i>
+  </p>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=UI%2FUX+%26+Product+Design+Enthusiast;Web+%26+Backend+Developer+(PHP+%2F+Laravel);Data+Science+%26+Analytics+Explorer;Crafting+Tech+for+Social+Impact" alt="Typing SVG" />
+  </a>
+
+  <br><br>
+
+  <!-- Social & Contact Badges -->
+  <p>
+    <a href="https://www.linkedin.com/in/USERNAME" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:EMAIL_KAMU">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://instagram.com/USERNAME" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/DHANIKUSUMA">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+
+</div>
+
+<br>
+
+---
+
+### 👨‍💻 About Me
+
+```yaml
+name: Dhani Kusuma Prasetyo
+role: Information Systems Student & UI/UX Designer
+location: Jawa Timur, Indonesia
+affiliation: WargaLab JTIF - Universitas Trunojoyo Madura
+passions:
+  - User-Centered Design & Usability Research
+  - Full-Stack Web Development (PHP, Laravel, Modern JS)
+  - Data-Driven Solutions & Machine Learning
+  - Social-Impact Technology
+```
+
+- 🎓 **Academic**: Mahasiswa Sistem Informasi di **Universitas Trunojoyo Madura**, aktif berkontribusi di **WargaLab JTIF**.
+- 🎨 **Design Focus**: Gemar merancang antarmuka yang intuitif, estetis, dan berbasis riset kegunaan (*User Experience Questionnaire & System Usability Scale*).
+- 💻 **Development**: Berfokus pada arsitektur web yang terstruktur, efisien, dan ramah pengguna dengan ekosistem modern.
+- 📊 **Data & AI**: Antusias dalam eksplorasi data, pengelompokan (*clustering*), serta pemodelan cerdas untuk pemecahan masalah nyata.
+- 💡 **Philosophy**: Percaya bahwa teknologi terbaik adalah teknologi yang mampu memberi dampak positif bagi masyarakat luas.
+
+<br>
+
+---
+
+### 🛠️ Tech Stack & Capabilities
+
+<div align="center">
+  <!-- Skillicons Visual Grid -->
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,js,html,css,tailwind,bootstrap,mysql,figma,canva,git,github,postman,vscode&perline=8" alt="Tech Stack Icons" />
+</div>
+
+<br>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎨 UI/UX & Design</h4>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
+      <img src="https://img.shields.io/badge/Affinity_Designer-1B1B1B?style=flat-square&logo=affinity&logoColor=white" alt="Affinity" />
+      <img src="https://img.shields.io/badge/Usability_Testing-4CAF50?style=flat-square&logo=google-forms&logoColor=white" alt="Usability Testing" />
+      <br><br>
+      <h4>📊 Data & Analytics</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>💻 Web & Backend Development</h4>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <br><br>
+      <h4>⚙️ Tools & Workflow</h4>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DHANIKUSUMA&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8" alt="GitHub Stats" />
+  &nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHANIKUSUMA&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DHANIKUSUMA&theme=tokyonight&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+</div>
+
+<br>
+
+---
+
+### 🤝 Let's Connect!
 
 <p align="center">
-  <b>Information Systems Student • UI/UX Enthusiast • Data-Driven Developer</b><br>
-  Universitas Trunodjoyo Madura
+  Tertarik untuk berdiskusi seputar <b>UI/UX Design</b>, <b>Web Development</b>, atau <b>Data Science</b>?<br>
+  Jangan ragu untuk menyapa atau bertukar gagasan!
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Data+Science+Enthusiast;PHP+%26+Laravel+Developer;Building+Tech+for+Rural+Communities" alt="Typing SVG" />
+  <a href="mailto:EMAIL_KAMU">
+    <img src="https://img.shields.io/badge/Send%20Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Send Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/USERNAME">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:EMAIL_KAMU"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
-</p>
+<br>
 
----
-
-### 👨‍💻 Tentang Saya
-
-Mahasiswa Sistem Informasi di **Universitas Trunojoyo Madura**, aktif di **WargaLab JTIF**. Fokus mengembangkan solusi teknologi berbasis riset — mulai dari UI/UX design, data science, hingga pengembangan web — dengan perhatian khusus pada konteks lokal Madura dan Jawa Timur.
-
-- 🔭 Sedang mengerjakan **DEKAT** — platform caregiving untuk lansia di Madura (GEMASTIK XIX 2026)
-- 🌱 Sedang memperdalam **Laravel** dan **Deep Learning**
-- 💡 Tertarik pada usability testing, data-driven design, dan pengembangan solusi berdampak sosial
-- 📫 Bisa dihubungi lewat email atau LinkedIn di atas
-
----
-
-### 🛠️ Tech Stack
-
-**Languages & Frameworks**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-**Data & Tools**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-**Design Tools**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![Affinity](https://img.shields.io/badge/Affinity-1B1B1B?style=flat&logo=affinity&logoColor=white)
-
----
-
-### 🚀 Proyek 
-
-| Proyek | Deskripsi | Status |
-|---|---|---|
-| **DEKAT** | Platform mobile caregiving yang menghubungkan lansia di Madura dengan anak perantau & relawan lokal terverifikasi. SUS Score 83.0 (Grade A). | GEMASTIK XIX 2026 |
-| **SI-Easy Letter** | Sistem MVC native PHP untuk digitalisasi surat administrasi kampus, dengan fitur AI auto-fill & prompt-to-form. | Aktif |
-| **Analisis Clustering Perpustakaan** | Perbandingan K-Means, K-Medoids, dan AHC pada data peminjam perpustakaan Jawa Timur. | Selesai |
-| **Redesign Kampung Wisata Jogjakota** | Redesain usability berbasis UEQ untuk portal wisata daerah. | Selesai |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=DHANIKUSUMA&show_icons=true&theme=default&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHANIKUSUMA&layout=compact&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=DHANIKUSUMA&hide_border=true" alt="streak stats" /> </p>
-
----
-
-<p align="center"><i>"Khairunnas anfa'uhum linnas — sebaik-baik manusia adalah yang paling bermanfaat.."</i></p>
+<div align="center">
+  <blockquote>
+    <i>"Khairunnas anfa'uhum linnas — Sebaik-baik manusia adalah yang paling bermanfaat bagi orang lain."</i>
+  </blockquote>
+</div>
