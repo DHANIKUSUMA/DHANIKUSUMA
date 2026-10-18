@@ -42,29 +42,15 @@
 
 ### 👨‍💻 About Me
 
-```yaml
-name: Dhani Kusuma Prasetyo
-role: Information Systems Student & UI/UX Designer
-location: Jawa Timur, Indonesia
-affiliation: WargaLab JTIF - Universitas Trunojoyo Madura
-contacts:
-  email: dhanikusuma018@gmail.com
-  github: DHANIKUSUMA
-  linkedin: dhani-kusuma-prasetyo
-  instagram: dh.ks_pr
-passions:
-  - User-Centered Design & Usability Research
-  - Full-Stack Web Development (PHP, Laravel, Modern JS)
-  - Data-Driven Solutions & Machine Learning
-  - Social-Impact Technology
-```
+<p align="justify">
+  Halo! Saya <b>Dhani Kusuma Prasetyo</b>, mahasiswa Sistem Informasi di <b>Universitas Trunojoyo Madura</b> yang berfokus pada perancangan <b>UI/UX Design</b> dan pengembangan <b>Web (PHP / Laravel)</b>. Saya antusias menciptakan pengalaman digital yang tidak hanya estetis, tetapi juga ramah pengguna berbasis riset kegunaan serta mampu memberikan dampak nyata bagi masyarakat.
+</p>
 
-- 🎓 **Academic**: Mahasiswa Sistem Informasi di **Universitas Trunojoyo Madura**, aktif berkontribusi di **WargaLab JTIF** & **HIMASI UTM**.
-- 🎨 **Design Focus**: Gemar merancang antarmuka yang intuitif, estetis, dan teruji secara riset kegunaan (*SUS & UEQ*).
-- 💻 **Development**: Berfokus pada arsitektur web modern yang efisien & terstruktur (PHP, Laravel, Modern JavaScript).
-- 🔭 **Current Focus**: Mengembangkan **DEKAT** (platform caregiving lansia) untuk ajang GEMASTIK XIX 2026 serta eksplorasi Data Science & AI.
-- 📬 **Reach Out**: Terbuka untuk diskusi dan kolaborasi via [LinkedIn](https://www.linkedin.com/in/dhani-kusuma-prasetyo), DM [Instagram](https://instagram.com/dh.ks_pr), atau [Email](mailto:dhanikusuma018@gmail.com).
-- 💡 **Philosophy**: Percaya bahwa teknologi terbaik adalah teknologi yang mampu memberi dampak positif dan nyata bagi masyarakat luas.
+- 🏛️ **Afiliasi**: Universitas Trunojoyo Madura • WargaLab JTIF • HIMASI UTM
+- 🎨 **UI/UX & Research**: User-Centered Design, Wireframing, Prototyping, dan Usability Testing (*SUS & UEQ*)
+- 💻 **Tech & Development**: Full-Stack Web (PHP, Laravel, Modern JS), MySQL, & Data Analytics Explorer
+- 🔭 **Sedang Dikerjakan**: Mengembangkan **DEKAT** (platform caregiving lansia untuk ajang GEMASTIK XIX 2026)
+- 📬 **Mari Terhubung**: Terbuka untuk diskusi atau kolaborasi via [LinkedIn](https://www.linkedin.com/in/dhani-kusuma-prasetyo), DM [Instagram](https://instagram.com/dh.ks_pr), atau [Email](mailto:dhanikusuma018@gmail.com)
 
 <br>
 
