@@ -1,8 +1,4 @@
 <div align="center">
-
-  <!-- Header Banner -->
-  <img src="github-header-banner.png" alt="Dhani Kusuma Banner" width="100%" style="border-radius: 10px; max-height: 280px; object-fit: cover;" />
-
   <br><br>
 
   <!-- Title & Typing Animation -->
@@ -21,19 +17,19 @@
 
   <!-- Social & Contact Badges -->
   <p>
-    <a href="https://www.linkedin.com/in/USERNAME" target="_blank">
+    <a href="https://www.linkedin.com/in/dhani-kusuma-prasetyo" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
-    <a href="mailto:EMAIL_KAMU">
+    <a href="mailto:dhanikusuma018@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;
-    <a href="https://instagram.com/USERNAME" target="_blank">
+    <a href="https://instagram.com/dh.ks_pr" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     &nbsp;
-    <a href="https://github.com/DHANIKUSUMA">
+    <a href="https://github.com/DHANIKUSUMA" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
@@ -51,6 +47,11 @@ name: Dhani Kusuma Prasetyo
 role: Information Systems Student & UI/UX Designer
 location: Jawa Timur, Indonesia
 affiliation: WargaLab JTIF - Universitas Trunojoyo Madura
+contacts:
+  email: dhanikusuma018@gmail.com
+  github: DHANIKUSUMA
+  linkedin: dhani-kusuma-prasetyo
+  instagram: dh.ks_pr
 passions:
   - User-Centered Design & Usability Research
   - Full-Stack Web Development (PHP, Laravel, Modern JS)
@@ -58,11 +59,12 @@ passions:
   - Social-Impact Technology
 ```
 
-- 🎓 **Academic**: Mahasiswa Sistem Informasi di **Universitas Trunojoyo Madura**, aktif berkontribusi di **WargaLab JTIF**.
-- 🎨 **Design Focus**: Gemar merancang antarmuka yang intuitif, estetis, dan berbasis riset kegunaan (*User Experience Questionnaire & System Usability Scale*).
-- 💻 **Development**: Berfokus pada arsitektur web yang terstruktur, efisien, dan ramah pengguna dengan ekosistem modern.
-- 📊 **Data & AI**: Antusias dalam eksplorasi data, pengelompokan (*clustering*), serta pemodelan cerdas untuk pemecahan masalah nyata.
-- 💡 **Philosophy**: Percaya bahwa teknologi terbaik adalah teknologi yang mampu memberi dampak positif bagi masyarakat luas.
+- 🎓 **Academic**: Mahasiswa Sistem Informasi di **Universitas Trunojoyo Madura**, aktif berkontribusi di **WargaLab JTIF** & **HIMASI UTM**.
+- 🎨 **Design Focus**: Gemar merancang antarmuka yang intuitif, estetis, dan teruji secara riset kegunaan (*SUS & UEQ*).
+- 💻 **Development**: Berfokus pada arsitektur web modern yang efisien & terstruktur (PHP, Laravel, Modern JavaScript).
+- 🔭 **Current Focus**: Mengembangkan **DEKAT** (platform caregiving lansia) untuk ajang GEMASTIK XIX 2026 serta eksplorasi Data Science & AI.
+- 📬 **Reach Out**: Terbuka untuk diskusi dan kolaborasi via [LinkedIn](https://www.linkedin.com/in/dhani-kusuma-prasetyo), DM [Instagram](https://instagram.com/dh.ks_pr), atau [Email](mailto:dhanikusuma018@gmail.com).
+- 💡 **Philosophy**: Percaya bahwa teknologi terbaik adalah teknologi yang mampu memberi dampak positif dan nyata bagi masyarakat luas.
 
 <br>
 
@@ -130,17 +132,16 @@ passions:
 ### 🤝 Let's Connect!
 
 <p align="center">
-  Tertarik untuk berdiskusi seputar <b>UI/UX Design</b>, <b>Web Development</b>, atau <b>Data Science</b>?<br>
-  Jangan ragu untuk menyapa atau bertukar gagasan!
-</p>
-
-<p align="center">
-  <a href="mailto:EMAIL_KAMU">
+  <a href="mailto:dhanikusuma018@gmail.com">
     <img src="https://img.shields.io/badge/Send%20Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Send Email" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/USERNAME">
+  <a href="https://www.linkedin.com/in/dhani-kusuma-prasetyo" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/dh.ks_pr" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20on%20Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
